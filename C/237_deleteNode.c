@@ -1,4 +1,9 @@
 /**
+ *  Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.
+ *
+ * Supposed the linked list is 1 -> 2 -> 3 -> 4 and you are given the third node with value 3, 
+ * the linked list should become 1 -> 2 -> 4 after calling your function. 
+ * 
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -6,10 +11,16 @@
  * };
  */
 void deleteNode(struct ListNode* node) {
-    struct ListNode *temp = node->next;
+    struct ListNode *temp = NULL;
     
-    // copy data of next node
-    node->val = node->next->val;
-    node->next = node->next->next;
-    free(temp);
+    if (node) {
+        if (node->next) {
+            temp = node->next;
+            // copy data of next node
+            node->val = temp->val;
+            node->next = temp->next;
+            free(temp);
+        }
+    }
 }
+
