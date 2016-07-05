@@ -1,4 +1,5 @@
 # leetcode
+Record the solution for leetcode
 
 ## Linked List
  #   | Title           |  Solution       | Difficulty
