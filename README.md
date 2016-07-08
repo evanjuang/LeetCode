@@ -15,3 +15,14 @@ Record the solution for leetcode
 206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C](./C/206_reverseList.c) [Python](./python/206_reverseList.py)|Easy
 237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C](./C/237_deleteNode.c) [Python](./python/237_deleteNode.py)|Easy
 328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python](./python/328_oddEvenList.py)|Medium
+
+
+## Array
+ #   | Title           |  Solution       | Difficulty
+-----|---------------- | --------------- | ---------------
+27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](./C/27_removeElement.c) [Python](./python/27_removeElement.py)|Easy
+66|[Plus One](https://leetcode.com/problems/plus-one/)|[C](./C/66_plusOne.c) [Python](./python/66_plusOne.py)|Easy
+121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C](./C/121_maxProfit.c) [Python](./python/121_maxProfit.py)|Easy
+169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C](./C/169_majorityElement.c) [Python](./python/169_majorityElement.py)|Easy 
+217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C](./C/217_containsDuplicate.c) [Python](./python/217_containsDuplicate.py)|Easy
+283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C](./C/283_moveZeroes.c) [Python](./python/283_moveZeroes.py)|Easy
