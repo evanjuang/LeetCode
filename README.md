@@ -20,9 +20,14 @@ Record the solution for leetcode
 ## Array
  #   | Title           |  Solution       | Difficulty
 -----|---------------- | --------------- | ---------------
+1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./python/1_twoSum.py)|Easy
 27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](./C/27_removeElement.c) [Python](./python/27_removeElement.py)|Easy
 66|[Plus One](https://leetcode.com/problems/plus-one/)|[C](./C/66_plusOne.c) [Python](./python/66_plusOne.py)|Easy
+88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C](./C/88_merge.c) [Python](./python/88_merge.py)|Easy
 121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C](./C/121_maxProfit.c) [Python](./python/121_maxProfit.py)|Easy
-169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C](./C/169_majorityElement.c) [Python](./python/169_majorityElement.py)|Easy 
+169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C](./C/169_majorityElement.c) [Python](./python/169_majorityElement.py)|Easy
+189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./python/189_rotate.py)|Easy
 217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C](./C/217_containsDuplicate.c) [Python](./python/217_containsDuplicate.py)|Easy
+219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](./python/219_containsNearbyDuplicate.py)|Easy
+268|[Missing Number](https://leetcode.com/problems/missing-number/)|[C](./C/268_missingNumber.c) [Python](./python/268_missingNumber.py)|Medium
 283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C](./C/283_moveZeroes.c) [Python](./python/283_moveZeroes.py)|Easy
