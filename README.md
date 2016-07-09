@@ -40,3 +40,12 @@ Record the solution for leetcode
 67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](./python/67_addBinary.py)|Easy
 344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C](./C/344_reverseString.c) [Python](./python/344_reverseString.py)|Easy
 345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[C](./C/345_reverseVowels.c) [Python](./python/345_reverseVowels.py)|Easy
+
+
+## Math
+ #   | Title           |  Solution       | Difficulty
+-----|---------------- | --------------- | ---------------
+171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C](./C/171_titleToNumber.c) [Python](./python/171_titleToNumber.py)|Easy
+231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C](./C/231_isPowerOfTwo.c) [Python](./python/231_isPowerOfTwo.py)|Easy
+258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C](./C/258_addDigits.c)|Easy
+263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C](./C/263_isUgly.c) [Python](./python/263_isUgly.py)|Easy
