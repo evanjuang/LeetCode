@@ -31,3 +31,12 @@ Record the solution for leetcode
 219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](./python/219_containsNearbyDuplicate.py)|Easy
 268|[Missing Number](https://leetcode.com/problems/missing-number/)|[C](./C/268_missingNumber.c) [Python](./python/268_missingNumber.py)|Medium
 283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C](./C/283_moveZeroes.c) [Python](./python/283_moveZeroes.py)|Easy
+
+
+## String
+ #   | Title           |  Solution       | Difficulty
+-----|---------------- | --------------- | ---------------
+58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C](./C/58_lengthOfLastWord.c) [Python](./python/58_lengthOfLastWord.py)|Easy
+67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](./python/67_addBinary.py)|Easy
+344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C](./C/344_reverseString.c) [Python](./python/344_reverseString.py)|Easy
+345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[C](./C/345_reverseVowels.c) [Python](./python/345_reverseVowels.py)|Easy
