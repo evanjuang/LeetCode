@@ -45,7 +45,13 @@ Record the solution for leetcode
 ## Math
  #   | Title           |  Solution       | Difficulty
 -----|---------------- | --------------- | ---------------
+7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C](./C/7_reverse.c) [Python](./python/7_reverse.py)|Easy
+8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C](./C/8_myAtoi.c)|Easy
+9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C](./C/9_isPalindrome.c) [Python](./python/9_isPalindrome.py)|Easy
+168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C](./C/168_convertToTitle.c) [Python](./python/168_convertToTitle.py)|Easy
 171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C](./C/171_titleToNumber.c) [Python](./python/171_titleToNumber.py)|Easy
+172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C](./C/172_trailingZeroes.c) [Python](./python/172_trailingZeroes.py)|Easy
+202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C](./C/202_isHappy.c) [Python](./python/202_isHappy.py)|Easy
 231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C](./C/231_isPowerOfTwo.c) [Python](./python/231_isPowerOfTwo.py)|Easy
 258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C](./C/258_addDigits.c)|Easy
 263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C](./C/263_isUgly.c) [Python](./python/263_isUgly.py)|Easy
