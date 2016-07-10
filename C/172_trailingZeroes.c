@@ -4,12 +4,10 @@
 
 int trailingZeroes(int n) {
     int count = 0;
-    int temp = 0;
     
     while(n) {
-        temp = n / 5;
-        count += temp;
-        n = temp;
+        n = n / 5;
+        count += n;
     }
     
     return count;
