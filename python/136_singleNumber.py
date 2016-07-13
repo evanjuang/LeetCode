@@ -1,5 +1,8 @@
 # A XOR A = 0 
 # ((2^2)^(1^1)^(4^4)^(5)) => (0^0^0^5) => 5
+#
+# one line:
+#   return reduce(lambda x, y: x ^ y, nums)
 class Solution(object):
     def singleNumber(self, nums):
         """
