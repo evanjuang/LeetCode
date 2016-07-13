@@ -55,3 +55,14 @@ Record the solution for leetcode
 231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C](./C/231_isPowerOfTwo.c) [Python](./python/231_isPowerOfTwo.py)|Easy
 258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C](./C/258_addDigits.c)|Easy
 263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C](./C/263_isUgly.c) [Python](./python/263_isUgly.py)|Easy
+
+
+## Bit Manipulation
+ #   | Title           |  Solution       | Difficulty
+-----|---------------- | --------------- | ---------------
+136|[Single Number](https://leetcode.com/problems/single-number/)|[C](./C/136_singleNumber.c) [Python](./python/136_singleNumber.py)|Medium
+190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C](./C/190_reverseBits.c) [Python](./python/190_reverseBits.py)|Easy
+191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C](./C/191_hammingWeight.c) [Python](./python/191_hammingWeight.py)|Easy
+338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C](./C/338_countBits.c) [Python](./python/338_countBits.py)|Medium
+342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[C](./C/342_isPowerOfFour.c) [Python](./python/342_isPowerOfFour.py)|Easy
+
