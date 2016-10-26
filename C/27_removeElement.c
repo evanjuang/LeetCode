@@ -1,3 +1,4 @@
+// similar: 283_moveZeroes
 int removeElement(int* nums, int numsSize, int val) {
     int i;
     int len = 0;
