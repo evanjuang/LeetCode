@@ -1,3 +1,6 @@
+// 1. use hash table
+
+// 2. sort and compare
 int cmp(const void *arg1, const void *arg2) {
     return (*(int *)arg1 - *(int *)arg2);
 }
