@@ -1,3 +1,7 @@
+// 1. use hashmap
+// 2. sort array and find middle element
+
+// 3. 
 int majorityElement(int* nums, int numsSize) {
     int count = 0;
     int i = 0;
