@@ -4,21 +4,21 @@ int myAtoi(char* str) {
     int old_val = 0;
     
     while(isspace(*str))
-        *str++;
+        str++;
     
     if (*str == '-' || *str == '+') {
         if (*str == '-') sign = -1;
-        *str++;
+        str++;
     }
     
     while(isdigit(*str)) {
         old_val = val;
         val = val * 10 + *str - '0';
-        if(val / 10 != old_val) {
+        if(val / 10 != old_val) { // overflow
             return sign == 1 ? INT_MAX : INT_MIN;
         }
         
-        *str++;
+        str++;
     }
     
     return sign * val;
