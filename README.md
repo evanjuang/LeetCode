@@ -36,6 +36,7 @@ Record the solution for leetcode
 ## String
  #   | Title           |  Solution       | Difficulty
 -----|---------------- | --------------- | ---------------
+8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C](./C/8_myAtoi.c) [C2](./C/8_myAtoi2.c)|Easy
 58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C](./C/58_lengthOfLastWord.c) [Python](./python/58_lengthOfLastWord.py)|Easy
 67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](./python/67_addBinary.py)|Easy
 344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C](./C/344_reverseString.c) [Python](./python/344_reverseString.py)|Easy
