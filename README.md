@@ -37,17 +37,19 @@ Record the solution for leetcode
  #   | Title           |  Solution       | Difficulty
 -----|---------------- | --------------- | ---------------
 8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C](./C/8_myAtoi.c) [C2](./C/8_myAtoi2.c)|Easy
+28|[Implement strStr() ](https://leetcode.com/problems/implement-strstr/)|[C](./C/28_strStr.c)|Easy
 58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C](./C/58_lengthOfLastWord.c) [Python](./python/58_lengthOfLastWord.py)|Easy
 67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](./python/67_addBinary.py)|Easy
 344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C](./C/344_reverseString.c) [Python](./python/344_reverseString.py)|Easy
 345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[C](./C/345_reverseVowels.c) [Python](./python/345_reverseVowels.py)|Easy
 
 
+
+
 ## Math
  #   | Title           |  Solution       | Difficulty
 -----|---------------- | --------------- | ---------------
 7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C](./C/7_reverse.c) [Python](./python/7_reverse.py)|Easy
-8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C](./C/8_myAtoi.c)|Easy
 9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C](./C/9_isPalindrome.c) [Python](./python/9_isPalindrome.py)|Easy
 168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C](./C/168_convertToTitle.c) [Python](./python/168_convertToTitle.py)|Easy
 171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C](./C/171_titleToNumber.c) [Python](./python/171_titleToNumber.py)|Easy
