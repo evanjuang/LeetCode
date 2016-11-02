@@ -40,6 +40,7 @@ Record the solution for leetcode
 28|[Implement strStr() ](https://leetcode.com/problems/implement-strstr/)|[C](./C/28_strStr.c)|Easy
 58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C](./C/58_lengthOfLastWord.c) [Python](./python/58_lengthOfLastWord.py)|Easy
 67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](./python/67_addBinary.py)|Easy
+125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C](./C/125_isPalindrome.c)|Easy
 344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C](./C/344_reverseString.c) [Python](./python/344_reverseString.py)|Easy
 345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[C](./C/345_reverseVowels.c) [Python](./python/345_reverseVowels.py)|Easy
 
