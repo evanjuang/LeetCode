@@ -2,8 +2,8 @@
 Record the solution for leetcode
 
 ## Linked List
- #   | Title           |  Solution       | Difficulty
------|---------------- | --------------- | ---------------
+|     | Title           |  Solution       | Difficulty
+|-----|---------------- | --------------- | ---------------
 19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](./python/19_removeNthFromEnd.py)|Easy
 21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C](./C/21_mergeTwoLists.c) [Python](./python/21_mergeTwoLists.py)|Easy
 24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C](./C/24_swapPairs.c)|Easy
@@ -18,8 +18,8 @@ Record the solution for leetcode
 
 
 ## Array
- #   | Title           |  Solution       | Difficulty
------|---------------- | --------------- | ---------------
+|     | Title           |  Solution       | Difficulty
+|-----|---------------- | --------------- | ---------------
 1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./python/1_twoSum.py)|Easy
 27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C](./C/27_removeElement.c) [Python](./python/27_removeElement.py)|Easy
 66|[Plus One](https://leetcode.com/problems/plus-one/)|[C](./C/66_plusOne.c) [Python](./python/66_plusOne.py)|Easy
@@ -34,8 +34,8 @@ Record the solution for leetcode
 
 
 ## String
- #   | Title           |  Solution       | Difficulty
------|---------------- | --------------- | ---------------
+|     | Title           |  Solution       | Difficulty
+|-----|---------------- | --------------- | ---------------
 8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C](./C/8_myAtoi.c) [C2](./C/8_myAtoi2.c)|Easy
 28|[Implement strStr() ](https://leetcode.com/problems/implement-strstr/)|[C](./C/28_strStr.c)|Easy
 58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C](./C/58_lengthOfLastWord.c) [Python](./python/58_lengthOfLastWord.py)|Easy
@@ -48,8 +48,8 @@ Record the solution for leetcode
 
 
 ## Math
- #   | Title           |  Solution       | Difficulty
------|---------------- | --------------- | ---------------
+|     | Title           |  Solution       | Difficulty
+|-----|---------------- | --------------- | ---------------
 7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C](./C/7_reverse.c) [Python](./python/7_reverse.py)|Easy
 9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C](./C/9_isPalindrome.c) [Python](./python/9_isPalindrome.py)|Easy
 168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C](./C/168_convertToTitle.c) [Python](./python/168_convertToTitle.py)|Easy
@@ -62,8 +62,8 @@ Record the solution for leetcode
 
 
 ## Bit Manipulation
- #   | Title           |  Solution       | Difficulty
------|---------------- | --------------- | ---------------
+|     | Title           |  Solution       | Difficulty
+|-----|---------------- | --------------- | ---------------
 136|[Single Number](https://leetcode.com/problems/single-number/)|[C](./C/136_singleNumber.c) [Python](./python/136_singleNumber.py)|Medium
 190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C](./C/190_reverseBits.c) [Python](./python/190_reverseBits.py)|Easy
 191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C](./C/191_hammingWeight.c) [Python](./python/191_hammingWeight.py)|Easy
